@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BluetoothScheduler.App/BluetoothScheduler.App.csproj" />
+    <Project Path="src/BluetoothScheduler.Core/BluetoothScheduler.Core.csproj" />
+    <Project Path="src/BluetoothScheduler.Infrastructure/BluetoothScheduler.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BluetoothScheduler.Tests/BluetoothScheduler.Tests.csproj" />
+  </Folder>
+</Solution>
